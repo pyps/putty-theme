@@ -15,4 +15,4 @@ PS C:\putty-theme>
 ```
 
 
-Cudos to @brantb User/Repository: brantb/solarized
+Cudos to @brantb [solarized](https://github.com/brantb/solarized)

@@ -1,3 +1,5 @@
+![License](https://img.shields.io/github/license/pyps/putty-theme.svg)
+
 # putty-theme
 Some theme options if your are forced to use Putty
 
